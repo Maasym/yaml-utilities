@@ -34,7 +34,7 @@ go build -o yaml-utilities
 Move the binary to your `PATH` for global usage:
 
 ```bash
-mv yaml-check /usr/local/bin/
+mv yaml-utilities /usr/local/bin/
 ```
 
 ---
