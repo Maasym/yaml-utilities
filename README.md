@@ -25,6 +25,7 @@ A command-line tool for validating, comparing, and converting YAML files, with s
 
 ```bash
 git clone https://github.com/Maasym/yaml-utilities
+cd yaml-utilities
 go build -o yaml-utilities
 ```
 
